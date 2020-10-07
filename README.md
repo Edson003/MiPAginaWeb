@@ -39,3 +39,4 @@ body{
   ````javascript
   document.getElementbyId('demo').innerHTML = "Hola a todos"
   ```
+Hasta luego
