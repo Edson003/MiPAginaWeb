@@ -21,7 +21,7 @@ Por ejemplo, un código abierto sería:
 </HTML>
 ```
 
-##
+## JavaScript
 
 Las hojas de estilo **CSS** nos permiten personalizar el aspecto de nuestras páginas web. Por ejemplo:
 
