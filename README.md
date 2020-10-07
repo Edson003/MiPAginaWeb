@@ -21,7 +21,7 @@ Por ejemplo, un código abierto sería:
 </HTML>
 ```
 
-## JavaScript
+## CSS
 
 Las hojas de estilo **CSS** nos permiten personalizar el aspecto de nuestras páginas web. Por ejemplo:
 
@@ -32,7 +32,7 @@ body{
   }
   ```
   
-  ##JavaScript
+## JavaScript
   
   El lenguaje **JavaScript** nos permite hacer páginas dinámicas que cambian según el usuario y cómo interaccionan con los elementos de la página. Por ejemplo:
   
